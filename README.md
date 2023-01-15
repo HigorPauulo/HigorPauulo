@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Atom Digital](https://github.com/AtomDigital)
 
-- ⚡ Skills in **JavaScript, HTML, CSS, Bootstrap, MySQL, WordPress**
+- ⚡ Skills in **JavaScript, HTML, CSS, Bootstrap, MySQL, WordPress, Git**
 
 - 👨‍💻 More at [h.pauloc12@gmail.com](https://h.pauloc12@gmail.com)
 
