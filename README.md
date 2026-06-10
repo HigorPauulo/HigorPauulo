@@ -1,11 +1,17 @@
-### Oi, eu sou o Higor
+## Higor Paulo
 
-Fundador da **[Hx Digital](https://github.com/hxdigital)**, uma software house em Goiania focada em solucoes web de alta performance.
+Fundador da [Hx Digital](https://github.com/hxdigital) · Full-Stack Developer · Goiania, GO
 
-Desenvolvo sites, sistemas e plataformas digitais onde o cliente gerencia tudo pelo painel admin. Cada projeto sai com SEO configurado, Lighthouse 90+ e design responsivo.
-
-`TypeScript` `Next.js` `React` `Payload CMS` `Tailwind CSS` `Java` `Spring Boot` `PostgreSQL` `Kafka` `RabbitMQ` `Redis` `Docker`
+Especializado em solucoes web com painel administrativo, SEO e alta performance. Do site institucional ao sistema sob medida, com qualidade de engenharia.
 
 ---
 
-ADS, PUC Goias | Goiania, GO | h.pauloc12@gmail.com
+**Tecnologias**
+
+`TypeScript` `Next.js` `React` `Payload CMS` `Tailwind CSS` `PostgreSQL` `Java` `Spring Boot` `Kafka` `RabbitMQ` `Redis` `Docker`
+
+---
+
+**Formacao** ADS, PUC Goias
+
+**Contato** h.pauloc12@gmail.com
