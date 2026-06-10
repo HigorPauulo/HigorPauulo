@@ -1,25 +1,22 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Higor Paulo</h1>
+# Higor Paulo
 
-- 🔥 Web Developer Full-Stack
+**Fundador da [Hx Digital](https://github.com/hxdigital)** · Full-Stack Developer · Goiânia, GO
 
-- 🔭 I’m currently working at [Atom Digital](https://github.com/AtomDigital)
+## Stack Principal
 
-- ⚡ Skills in **JavaScript, HTML, CSS, Bootstrap, MySQL, WordPress, Git**
+**TypeScript** · **Next.js** · **Payload CMS** · **Tailwind CSS**
 
-- 👨‍💻 More at [h.pauloc12@gmail.com](https://h.pauloc12@gmail.com)
+Sites institucionais, blogs, catálogos, lojas virtuais e sistemas com painel admin.
+Foco em qualidade, performance e SEO.
 
+## Stack Secundária
 
-<!--
-**HigorPauulo/HigorPauulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Java 21** · **Spring Boot 4** · **PostgreSQL** · **Kafka** · **RabbitMQ** · **Redis**
 
-Here are some ideas to get you started:
+## Formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Análise e Desenvolvimento de Sistemas · PUC Goiás
+
+## Contato
+
+[h.pauloc12@gmail.com](mailto:h.pauloc12@gmail.com)
