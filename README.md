@@ -1,12 +1,12 @@
 ## 👋 Sobre mim
 
-Sou **Higor Paulo**, fundador da **[Hx Digital](https://github.com/hxdigital)**, uma software house em Goiania, GO.
+Sou **Higor Paulo**, fundador da **[Hx Digital](https://github.com/hxdigital)**, uma software house em Goiânia, GO.
 
-Desenvolvo sites, plataformas e sistemas web para empresas que precisam de presenca digital profissional. Cada projeto inclui painel admin para o cliente gerenciar seu conteudo, SEO otimizado e performance Lighthouse 90+.
+Desenvolvo sites, plataformas e sistemas web para empresas que precisam de presença digital profissional. Cada projeto inclui painel admin para o cliente gerenciar seu conteúdo, SEO otimizado e performance Lighthouse 90+.
 
 Do site institucional ao sistema complexo, com qualidade de engenharia.
 
-🎓 Analise e Desenvolvimento de Sistemas, PUC Goias
+🎓 Análise e Desenvolvimento de Sistemas, PUC Goiás
 
 ---
 
